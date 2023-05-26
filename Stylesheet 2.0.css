@@ -1,0 +1,112 @@
+   body {
+      padding: 0px;
+      margin: 0px;
+      font-family: 'Rubik';
+   }
+
+   .Banner {
+      text-align: center;
+      display: block;
+      background-color: #216E70;
+      font-size: 14px;
+      color: white;
+      font-weight: bold;
+      padding: 14px;
+   }
+
+   .Logo {
+      width: 250px;
+      height: 97px;
+      float: left;
+      position: relative;
+      top: -23px;
+      left: 10px;
+      bottom: 0px;
+   }
+
+   .Nav-menu {
+      list-style: none;
+      font-size: 17px;
+
+   }
+
+   .Nav-list-item {
+      display: inline-block;
+      padding-top: 45px;
+      position: relative;
+      top: -7px;
+      left: 180px;
+
+   }
+
+   .List-item {
+      text-decoration: none;
+      color: rgb(0, 0, 0);
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      
+
+   }
+
+   #Front-image {
+      width: 1347px;
+      height: 500px;
+      position: relative;
+      top: -3px;
+      padding-bottom: -5px;
+   }
+
+   .Page-title {
+      color: rgb(100, 99, 99);
+      font-size: 33px;
+      padding-left: 70px;
+      padding-top: 30px;
+   }
+
+   .paragraph {
+      word-wrap: break-word;
+      width: 570px;
+      font-size: 17px;
+      color: rgb(150, 150, 150);
+      padding-left: 70px
+   }
+
+   .Video {
+      padding-left: -3px;
+      padding-top: 40px;
+   }
+
+   .map {
+      position: relative;
+      top: -759px;
+      left: +830px;
+   }
+
+   .Address-section {
+      position: relative;
+      top: -755px;
+      left: +820px;
+      word-wrap: break-word;
+      width: 300px;
+      color: rgb(100, 99, 99)
+   }
+
+
+   .Map-border {
+      border: 5px solid #216E70;
+      width: 410px;
+      height: 260px;
+      position: relative;
+      top: -500px;
+      left: +820px;
+   }
+
+   #search-bar {
+      position: relative;
+      left: 1140px;
+      top: 20px;
+
+ }
+ 
